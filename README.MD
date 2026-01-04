@@ -1,4 +1,4 @@
-# 💰 Expense Tracker (Python GUI)
+# 💰 Expense Tracker
 
 A simple and user-friendly **Expense Tracker desktop application** built with **Python and Tkinter**.  
 This app helps users record daily expenses, categorize them, and keep track of total spending.
@@ -45,6 +45,7 @@ expense_tracker/
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/expense-tracker.git
+bash```
 ### 2️⃣ Navigate to the project folder
 cd expense-tracker
 
